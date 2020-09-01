@@ -13,6 +13,8 @@ module.exports = {
   rules: {
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
+    // 'vue/max-attributes-per-line': 'off',
+
   },
   overrides: [
     {
@@ -23,6 +25,11 @@ module.exports = {
       env: {
         jest: true,
       },
+      rules: {
+        'max-len': 'off', // disables line length check
+      },
+
     },
   ],
+
 };
