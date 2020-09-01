@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # instabug-challenge
 
 ## Project setup
