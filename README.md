@@ -1,4 +1,3 @@
-# instabug-challenge
 
 # frontend-challenge
 
