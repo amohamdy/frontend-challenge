@@ -54,4 +54,3 @@ Install Node.js on your machine if it doesn't exist
 
 ```
 
->>>>>>> 9483285f38608386f7c4a034ee4780b93d78a964
